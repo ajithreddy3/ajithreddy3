@@ -21,15 +21,6 @@ I work across **systems performance, backend engineering, and applied AI/ML**. I
 - **Research:** WISDOM Lab, IIT Kanpur — 3GPP document retrieval and CSI prediction
 - **Focus areas:** C/C++, Python, distributed/backend systems, RAG, PyTorch
 
-## Selected impact
-
-| Area | Outcome |
-|---|---|
-| Systems performance | Resolved 12 AI-identified hotspots in an eBPF-based telemetry pipeline; reduced telemetry CPU usage by **37%** and system-property lookups by **99.7%** |
-| Reliability & profiling | Helped reduce AR runtime request-loop CPU usage by **8%**; investigated performance and shutdown issues with Perfetto, simpleperf, and LLVM tools |
-| 3GPP RAG research | Optimized a hybrid retrieval workflow, reducing observed query latency from roughly **300 seconds to 15–30 seconds** on the tested workflow |
-| Testing | Contributed fixes validated by **714 passing tests** |
-
 ## Featured projects
 
 <div align="center">
