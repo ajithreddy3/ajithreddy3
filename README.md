@@ -2,13 +2,12 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Ajith+Reddy+%7C+Software+Engineer;Systems+%C2%B7+AI%2FML+%C2%B7+Backend+Engineering;Building+reliable+systems+and+useful+AI" alt="Typing animation introducing Ajith Reddy" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Ajith+Reddy;Systems+%C2%B7+AI%2FML+%C2%B7+Backend+Engineering;Building+reliable+systems+and+useful+AI" alt="Typing animation introducing Ajith Reddy" />
 </a>
 
 <p>
   <a href="https://www.linkedin.com/in/sai-ajith-reddy-76304726a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/ajithreddy3"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/ajithreddy3/"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 </div>
@@ -17,16 +16,14 @@
 
 ## About
 
-Software engineer working across **systems performance, backend engineering, and applied AI/ML**. I enjoy debugging low-level performance issues, building retrieval-augmented generation systems, and turning research ideas into working software.
+I work across **systems performance, backend engineering, and applied AI/ML**. I enjoy debugging low-level performance issues, building retrieval-augmented generation systems, and turning research ideas into working software.
 
-- **Current role:** Software Engineer, Wearables System Health — Meta ODC
 - **Research:** WISDOM Lab, IIT Kanpur — 3GPP document retrieval and CSI prediction
 - **Focus areas:** C/C++, Python, distributed/backend systems, RAG, PyTorch
-- **Problem solving:** 250+ LeetCode problems
 
 ## Selected impact
 
-| Work | Outcome |
+| Area | Outcome |
 |---|---|
 | Systems performance | Resolved 12 AI-identified hotspots in an eBPF-based telemetry pipeline; reduced telemetry CPU usage by **37%** and system-property lookups by **99.7%** |
 | Reliability & profiling | Helped reduce AR runtime request-loop CPU usage by **8%**; investigated performance and shutdown issues with Perfetto, simpleperf, and LLVM tools |
@@ -85,5 +82,5 @@ Software engineer working across **systems performance, backend engineering, and
 ---
 
 <div align="center">
-  <sub>Open to opportunities in software engineering, backend systems, and applied AI/ML.</sub>
+  <sub>Interested in software engineering, backend systems, and applied AI/ML.</sub>
 </div>
